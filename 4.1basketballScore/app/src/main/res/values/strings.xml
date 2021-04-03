@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">basketballScoreC</string>
+    <string name="home">Home</string>
+    <string name="visitor">Visitor</string>
+    <string name="score">0</string>
+    <string name="point3">+3</string>
+    <string name="point2">+2</string>
+    <string name="free">+1</string>
+    <string name="reset">RESET</string>
+    <string name="image">Basketball at rest on a count</string>
+</resources>

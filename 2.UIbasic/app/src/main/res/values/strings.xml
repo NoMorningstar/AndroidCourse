@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UIbasic</string>
+    <string name="textview">display</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="Switch1">开关</string>
+    <string name="switch3">开关</string>
+    <string name="switch_1">开关</string>
+    <string name="SwitchMaterial">开关</string>
+    <string name="edNumber">请输入数值</string>
+    <string name="button3">确定</string>
+    <string name="radiobutton1">对</string>
+    <string name="radiobutton2">错</string>
+    <string name="imageyes">对勾</string>
+    <string name="radiobutton3">前景</string>
+    <string name="radiobutton4">背景</string>
+    <string name="image1">前景</string>
+    <string name="image2" />
+    <string name="imageai">恋爱</string>
+    <string name="imagefen">分手</string>
+    <string name="radiobuttonai">恋爱</string>
+    <string name="radiobuttonfen">分手</string>
+    <string name="radioai">恋爱</string>
+    <string name="imagelianai">恋爱图</string>
+    <string name="switch1">开关</string>
+    <string name="checkbox1">逛街</string>
+    <string name="checkbox2">看电影</string>
+    <string name="checkbox3">吃烧烤</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本地化</string>
+    <string name="Title">你好世界！</string>
+    <string name="message">这是一条消息！</string>
+    <string name="buttonmessage">按键</string>
+</resources>
